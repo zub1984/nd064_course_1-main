@@ -1,0 +1,21 @@
+2021-08-26 22:11:05,259 [INFO]  * Restarting with stat
+2021-08-26 22:11:05,610 [WARNING]  * Debugger is active!
+2021-08-26 22:11:05,613 [INFO]  * Debugger PIN: 492-045-608
+2021-08-26 22:11:05,650 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-08-26 22:11:05,651 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-08-26 22:11:24,719 [DEBUG] Main request recevied
+2021-08-26 22:11:24,740 [INFO] 127.0.0.1 - - [26/Aug/2021 22:11:24] "GET / HTTP/1.1" 200 -
+2021-08-26 22:11:24,982 [INFO] 127.0.0.1 - - [26/Aug/2021 22:11:24] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-08-26 22:11:27,778 [DEBUG] About us page is retrieved.
+2021-08-26 22:11:27,790 [INFO] 127.0.0.1 - - [26/Aug/2021 22:11:27] "GET /about HTTP/1.1" 200 -
+2021-08-26 22:11:27,815 [INFO] 127.0.0.1 - - [26/Aug/2021 22:11:27] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-08-26 22:11:50,627 [DEBUG] Received new post.
+2021-08-26 22:11:50,644 [INFO] 127.0.0.1 - - [26/Aug/2021 22:11:50] "GET /create HTTP/1.1" 200 -
+2021-08-26 22:11:50,668 [INFO] 127.0.0.1 - - [26/Aug/2021 22:11:50] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-08-26 22:12:08,242 [DEBUG] Received new post.
+2021-08-26 22:12:08,257 [INFO] Post inserted, title=docker
+2021-08-26 22:12:08,259 [INFO] 127.0.0.1 - - [26/Aug/2021 22:12:08] "[32mPOST /create HTTP/1.1[0m" 302 -
+2021-08-26 22:12:08,266 [DEBUG] Main request recevied
+2021-08-26 22:12:08,283 [INFO] 127.0.0.1 - - [26/Aug/2021 22:12:08] "GET / HTTP/1.1" 200 -
+2021-08-26 22:12:08,311 [INFO] 127.0.0.1 - - [26/Aug/2021 22:12:08] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -

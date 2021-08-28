@@ -1,0 +1,95 @@
+## Docker commands used to build the application 
+# TODO: insert the docker build command
+docker build -t techtrends .
+
+## Docker commands used to run the application
+# TODO: insert the docker run command
+docker run -d -p 7111:3111 techtrends
+
+## Docker commands used to get the application logs
+# TODO: insert the docker logs command docker logs CONTAINER_ID
+docker logs 1536b0edd632
+
+## Logs from the container running the TechTrends application
+# TODO: paste logs from the Docker container 
+* Serving Flask app "app" (lazy loading)
+
+ * Environment: production
+
+   WARNING: This is a development server. Do not use it in a production deployment.
+
+   Use a production WSGI server instead.
+
+ * Debug mode: on
+
+2021-08-26 08:56:11,911 [INFO]  * Running on http://0.0.0.0:3111/ (Press CTRL+C to quit)
+
+2021-08-26 08:56:11,913 [INFO]  * Restarting with stat
+
+2021-08-26 08:56:12,118 [WARNING]  * Debugger is active!
+
+2021-08-26 08:56:12,119 [INFO]  * Debugger PIN: 179-111-643
+
+2021-08-26 08:57:38,316 [DEBUG] Main request recevied
+
+2021-08-26 08:57:38,469 [INFO] 172.17.0.1 - - [26/Aug/2021 08:57:38] "GET / HTTP/1.1" 200 -
+
+2021-08-26 08:57:38,510 [INFO] 172.17.0.1 - - [26/Aug/2021 08:57:38] "GET /static/css/main.css HTTP/1.1" 200 -
+
+2021-08-26 08:57:38,567 [INFO] 172.17.0.1 - - [26/Aug/2021 08:57:38] "GET /favicon.ico HTTP/1.1" 404 -
+
+2021-08-26 08:57:40,393 [DEBUG] About us page is retrieved.
+
+2021-08-26 08:57:40,397 [INFO] 172.17.0.1 - - [26/Aug/2021 08:57:40] "GET /about HTTP/1.1" 200 -
+
+2021-08-26 08:57:43,393 [DEBUG] Main request recevied
+
+2021-08-26 08:57:43,396 [INFO] 172.17.0.1 - - [26/Aug/2021 08:57:43] "GET / HTTP/1.1" 200 -
+
+2021-08-26 08:58:06,336 [DEBUG] Received new post.
+
+2021-08-26 08:58:06,347 [INFO] 172.17.0.1 - - [26/Aug/2021 08:58:06] "GET /create HTTP/1.1" 200 -
+
+2021-08-26 08:58:17,067 [DEBUG] Received new post.
+
+2021-08-26 08:58:17,204 [INFO] Post inserted, title=Jubair
+
+2021-08-26 08:58:17,206 [INFO] 172.17.0.1 - - [26/Aug/2021 08:58:17] "POST /create HTTP/1.1" 302 -
+
+2021-08-26 08:58:17,213 [DEBUG] Main request recevied
+
+2021-08-26 08:58:17,216 [INFO] 172.17.0.1 - - [26/Aug/2021 08:58:17] "GET / HTTP/1.1" 200 -
+
+2021-08-26 08:58:19,566 [DEBUG] Received new post.
+
+2021-08-26 08:58:19,568 [INFO] 172.17.0.1 - - [26/Aug/2021 08:58:19] "GET /create HTTP/1.1" 200 -
+
+2021-08-26 08:59:09,564 [DEBUG] Received new post.
+
+2021-08-26 08:59:09,691 [INFO] Post inserted, title=Udacity_Docket
+
+2021-08-26 08:59:09,694 [INFO] 172.17.0.1 - - [26/Aug/2021 08:59:09] "POST /create HTTP/1.1" 302 -
+
+2021-08-26 08:59:09,705 [DEBUG] Main request recevied
+
+2021-08-26 08:59:09,707 [INFO] 172.17.0.1 - - [26/Aug/2021 08:59:09] "GET / HTTP/1.1" 200 -
+
+2021-08-26 08:59:13,633 [DEBUG] Fetch individual article.
+
+2021-08-26 08:59:13,634 [INFO] Article retrieved, post_id=1
+
+2021-08-26 08:59:13,645 [INFO] 172.17.0.1 - - [26/Aug/2021 08:59:13] "GET /1 HTTP/1.1" 200 -
+
+2021-08-26 08:59:16,270 [DEBUG] Main request recevied
+
+2021-08-26 08:59:16,273 [INFO] 172.17.0.1 - - [26/Aug/2021 08:59:16] "GET / HTTP/1.1" 200 -
+
+2021-08-26 08:59:18,381 [DEBUG] Received new post.
+
+2021-08-26 08:59:18,383 [INFO] 172.17.0.1 - - [26/Aug/2021 08:59:18] "GET /create HTTP/1.1" 200 -
+
+2021-08-26 08:59:23,698 [DEBUG] Received new post.
+
+2021-08-26 08:59:23,699 [INFO] Title is required!
+
+2021-08-26 08:59:23,701 [INFO] 172.17.0.1 - - [26/Aug/2021 08:59:23] "POST /create HTTP/1.1" 200 -
