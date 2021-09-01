@@ -41,5 +41,5 @@ spec:
             memory: {{ .Values.resources.requests.memory }}
             cpu: {{ .Values.resources.requests.cpu }}
           limits:
-            memory: 128Mi
-            cpu: 500m
+            memory: {{ .Values.resources.limits.memory }}
+            cpu: {{ .Values.resources.limits.cpu }}
