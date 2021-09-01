@@ -1,53 +1,45 @@
+---
 apiVersion: apps/v1
 kind: Deployment
 metadata:
   labels:
     app: techtrends
   name: techtrends
-  namespace: {{ .Values.namespace.name }}
+  namespace: sandbox
 spec:
-  replicas: {{ .Values.replicaCount }} 
+  replicas: 1
   selector:
     matchLabels:
       app: techtrends
-  
   strategy:
     rollingUpdate:
       maxSurge: 25%
       maxUnavailable: 25%
     type: RollingUpdate
-  
   template:
     metadata:
       labels:
         app: techtrends
-    
     spec:
       containers:
-      - image: {{ .Values.image.repository }}:{{ .Values.image.tag }}
-        imagePullPolicy: {{ .Values.image.pullPolicy }}
+      - image: zub1984/techtrends:latest
+        imagePullPolicy: IfNotPresent
         name: techtrends
-        
         ports:
-        - containerPort: {{ .Values.containerPort }}
+        - containerPort: 3111
           protocol: TCP
-          
         livenessProbe:
-           httpGet:
-             path: {{ .Values.livenessProbe.httpGet.path }}
-             port: {{ .Values.livenessProbe.httpGet.port }}
-        
+          httpGet:
+            path: "/healthz"
+            port: 3111
         readinessProbe:
-           httpGet:
-             path: {{ .Values.readinessProbe.httpGet.path }}
-             port: {{ .Values.readinessProbe.httpGet.port }}
-        
+          httpGet:
+            path: "/healthz"
+            port: 3111
         resources:
           requests:
-            memory: {{ .Values.resources.requests.memory }}
-            cpu: {{ .Values.resources.requests.cpu }}
-          
+            memory: 64Mi
+            cpu: 250m
           limits:
-            memory: {{ .Values.resources.limits.memory }}
-            cpu: {{ .Values.resources.limits.cpu }}         
-{{ toYaml .Values.resources | indent 12 }}
+            memory: 128Mi
+            cpu: 500m
