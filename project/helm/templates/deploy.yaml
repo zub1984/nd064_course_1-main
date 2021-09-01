@@ -44,10 +44,9 @@ spec:
         
         resources:
           requests:
-             cpu: {{ .Values.resources.requests.cpu }}
-             memory: {{ .Values.resources.requests.memory }}
-          
+            memory: {{ .Values.resources.requests.memory }}
+            cpu: {{ .Values.resources.requests.cpu }}
           limits:
-             cpu: {{ .Values.resources.limits.cpu }}
-             memory: {{ .Values.resources.limits.memory }}
+            memory: {{ .Values.resources.limits.memory }}
+            cpu: {{ .Values.resources.limits.cpu }}
 {{ toYaml .Values.resources | indent 12 }}
