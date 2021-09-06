@@ -19,3 +19,986 @@
 2021-08-26 22:12:08,266 [DEBUG] Main request recevied
 2021-08-26 22:12:08,283 [INFO] 127.0.0.1 - - [26/Aug/2021 22:12:08] "GET / HTTP/1.1" 200 -
 2021-08-26 22:12:08,311 [INFO] 127.0.0.1 - - [26/Aug/2021 22:12:08] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 22:29:09,790 [INFO]  * Restarting with stat
+2021-09-06 22:29:10,411 [WARNING]  * Debugger is active!
+2021-09-06 22:29:10,422 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 22:29:11,297 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 22:29:11,298 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 22:34:18,848 [INFO]  * Detected change in 'D:\\Udacity\\nd064_course_1-main\\project\\techtrends\\app.py', reloading
+2021-09-06 22:34:18,951 [INFO]  * Restarting with stat
+2021-09-06 22:34:19,766 [WARNING]  * Debugger is active!
+2021-09-06 22:34:19,774 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 22:34:20,676 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 22:34:20,678 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 22:34:58,050 [INFO]  * Detected change in 'D:\\Udacity\\nd064_course_1-main\\project\\techtrends\\app.py', reloading
+2021-09-06 22:34:58,300 [INFO]  * Restarting with stat
+2021-09-06 22:34:59,485 [WARNING]  * Debugger is active!
+2021-09-06 22:34:59,502 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 22:35:00,412 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 22:35:00,413 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 22:35:08,308 [INFO]  * Restarting with stat
+2021-09-06 22:35:09,027 [WARNING]  * Debugger is active!
+2021-09-06 22:35:09,037 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 22:35:09,922 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 22:35:09,922 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 22:36:52,271 [INFO]  * Detected change in 'D:\\Udacity\\nd064_course_1-main\\project\\techtrends\\app.py', reloading
+2021-09-06 22:36:52,359 [INFO]  * Restarting with stat
+2021-09-06 22:36:53,280 [WARNING]  * Debugger is active!
+2021-09-06 22:36:53,292 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 22:36:54,190 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 22:36:54,194 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 22:37:45,995 [INFO]  * Detected change in 'D:\\Udacity\\nd064_course_1-main\\project\\techtrends\\app.py', reloading
+2021-09-06 22:37:46,092 [INFO]  * Restarting with stat
+2021-09-06 22:37:46,858 [WARNING]  * Debugger is active!
+2021-09-06 22:37:46,870 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 22:37:47,789 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 22:37:47,790 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 22:38:58,276 [INFO]  * Detected change in 'D:\\Udacity\\nd064_course_1-main\\project\\techtrends\\app.py', reloading
+2021-09-06 22:38:58,377 [INFO]  * Restarting with stat
+2021-09-06 22:38:59,089 [WARNING]  * Debugger is active!
+2021-09-06 22:38:59,102 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 22:38:59,994 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 22:38:59,997 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 22:39:46,621 [INFO]  * Detected change in 'D:\\Udacity\\nd064_course_1-main\\project\\techtrends\\app.py', reloading
+2021-09-06 22:39:46,747 [INFO]  * Restarting with stat
+2021-09-06 22:39:47,749 [WARNING]  * Debugger is active!
+2021-09-06 22:39:47,776 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 22:39:48,832 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 22:39:48,840 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 22:41:02,278 [INFO]  * Detected change in 'D:\\Udacity\\nd064_course_1-main\\project\\techtrends\\app.py', reloading
+2021-09-06 22:41:02,386 [INFO]  * Restarting with stat
+2021-09-06 22:41:03,198 [WARNING]  * Debugger is active!
+2021-09-06 22:41:03,211 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 22:41:04,107 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 22:41:04,111 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 22:42:45,980 [INFO]  * Restarting with stat
+2021-09-06 22:42:46,613 [WARNING]  * Debugger is active!
+2021-09-06 22:42:46,622 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 22:42:47,500 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 22:42:47,501 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 22:43:56,824 [INFO]  * Detected change in 'D:\\Udacity\\nd064_course_1-main\\project\\techtrends\\app.py', reloading
+2021-09-06 22:43:56,924 [INFO]  * Restarting with stat
+2021-09-06 22:43:57,872 [WARNING]  * Debugger is active!
+2021-09-06 22:43:57,880 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 22:43:58,764 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 22:43:58,766 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 22:44:11,979 [INFO]  * Restarting with stat
+2021-09-06 22:44:12,657 [WARNING]  * Debugger is active!
+2021-09-06 22:44:12,667 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 22:44:13,576 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 22:44:13,582 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 22:44:54,277 [INFO]  * Restarting with stat
+2021-09-06 22:44:54,911 [WARNING]  * Debugger is active!
+2021-09-06 22:44:54,924 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 22:44:55,813 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 22:44:55,813 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 22:46:55,747 [INFO]  * Detected change in 'D:\\Udacity\\nd064_course_1-main\\project\\techtrends\\app.py', reloading
+2021-09-06 22:46:55,910 [INFO]  * Restarting with stat
+2021-09-06 22:46:57,225 [WARNING]  * Debugger is active!
+2021-09-06 22:46:57,235 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 22:46:58,115 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 22:46:58,116 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 22:47:20,482 [INFO]  * Restarting with stat
+2021-09-06 22:47:21,184 [WARNING]  * Debugger is active!
+2021-09-06 22:47:21,198 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 22:47:22,075 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 22:47:22,076 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 22:50:04,953 [INFO]  * Restarting with stat
+2021-09-06 22:50:05,590 [WARNING]  * Debugger is active!
+2021-09-06 22:50:05,601 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 22:50:06,490 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 22:50:06,491 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 22:50:15,752 [DEBUG] Main request recevied
+2021-09-06 22:50:15,786 [INFO] 172.20.11.139 - - [06/Sep/2021 22:50:15] "GET / HTTP/1.1" 200 -
+2021-09-06 22:50:16,251 [INFO] 172.20.11.139 - - [06/Sep/2021 22:50:16] "GET /static/css/main.css HTTP/1.1" 200 -
+2021-09-06 22:50:16,504 [INFO] 172.20.11.139 - - [06/Sep/2021 22:50:16] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-09-06 22:50:19,805 [DEBUG] About us page is retrieved.
+2021-09-06 22:50:19,814 [INFO] 172.20.11.139 - - [06/Sep/2021 22:50:19] "GET /about HTTP/1.1" 200 -
+2021-09-06 22:50:19,853 [INFO] 172.20.11.139 - - [06/Sep/2021 22:50:19] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 22:50:21,416 [DEBUG] Received new post.
+2021-09-06 22:50:21,429 [INFO] 172.20.11.139 - - [06/Sep/2021 22:50:21] "GET /create HTTP/1.1" 200 -
+2021-09-06 22:50:21,463 [INFO] 172.20.11.139 - - [06/Sep/2021 22:50:21] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 22:50:26,010 [DEBUG] Received new post.
+2021-09-06 22:50:26,022 [INFO] Post inserted, title=test
+2021-09-06 22:50:26,026 [INFO] 172.20.11.139 - - [06/Sep/2021 22:50:26] "[32mPOST /create HTTP/1.1[0m" 302 -
+2021-09-06 22:50:26,044 [DEBUG] Main request recevied
+2021-09-06 22:50:26,064 [INFO] 172.20.11.139 - - [06/Sep/2021 22:50:26] "GET / HTTP/1.1" 200 -
+2021-09-06 22:50:26,193 [INFO] 172.20.11.139 - - [06/Sep/2021 22:50:26] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 22:50:51,479 [INFO]  * Restarting with stat
+2021-09-06 22:50:52,121 [WARNING]  * Debugger is active!
+2021-09-06 22:50:52,131 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 22:50:53,014 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 22:50:53,031 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 22:50:54,756 [DEBUG] Main request recevied
+2021-09-06 22:50:54,764 [DEBUG] Main request recevied
+2021-09-06 22:50:54,796 [INFO] 172.20.11.139 - - [06/Sep/2021 22:50:54] "GET / HTTP/1.1" 200 -
+2021-09-06 22:50:55,251 [INFO] 172.20.11.139 - - [06/Sep/2021 22:50:55] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 22:50:57,944 [DEBUG] About us page is retrieved.
+2021-09-06 22:50:57,964 [INFO] 172.20.11.139 - - [06/Sep/2021 22:50:57] "GET /about HTTP/1.1" 200 -
+2021-09-06 22:50:58,003 [INFO] 172.20.11.139 - - [06/Sep/2021 22:50:58] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 22:50:59,473 [DEBUG] Main request recevied
+2021-09-06 22:50:59,492 [DEBUG] Main request recevied
+2021-09-06 22:50:59,498 [INFO] 172.20.11.139 - - [06/Sep/2021 22:50:59] "GET / HTTP/1.1" 200 -
+2021-09-06 22:50:59,544 [INFO] 172.20.11.139 - - [06/Sep/2021 22:50:59] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 22:51:01,404 [DEBUG] Received new post.
+2021-09-06 22:51:01,414 [INFO] 172.20.11.139 - - [06/Sep/2021 22:51:01] "GET /create HTTP/1.1" 200 -
+2021-09-06 22:51:01,444 [INFO] 172.20.11.139 - - [06/Sep/2021 22:51:01] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 22:51:05,650 [DEBUG] Received new post.
+2021-09-06 22:51:05,660 [INFO] Post inserted, title=test
+2021-09-06 22:51:05,662 [INFO] 172.20.11.139 - - [06/Sep/2021 22:51:05] "[32mPOST /create HTTP/1.1[0m" 302 -
+2021-09-06 22:51:05,671 [DEBUG] Main request recevied
+2021-09-06 22:51:05,674 [DEBUG] Main request recevied
+2021-09-06 22:51:05,686 [INFO] 172.20.11.139 - - [06/Sep/2021 22:51:05] "GET / HTTP/1.1" 200 -
+2021-09-06 22:51:05,736 [INFO] 172.20.11.139 - - [06/Sep/2021 22:51:05] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 22:51:06,892 [DEBUG] Fetch individual article.
+2021-09-06 22:51:06,895 [INFO] Article retrieved, post_id=2
+2021-09-06 22:51:06,917 [INFO] 172.20.11.139 - - [06/Sep/2021 22:51:06] "GET /2 HTTP/1.1" 200 -
+2021-09-06 22:51:06,955 [INFO] 172.20.11.139 - - [06/Sep/2021 22:51:06] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 22:51:08,376 [DEBUG] Main request recevied
+2021-09-06 22:51:08,385 [DEBUG] Main request recevied
+2021-09-06 22:51:08,389 [INFO] 172.20.11.139 - - [06/Sep/2021 22:51:08] "GET / HTTP/1.1" 200 -
+2021-09-06 22:51:08,425 [INFO] 172.20.11.139 - - [06/Sep/2021 22:51:08] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 22:51:09,475 [DEBUG] Received new post.
+2021-09-06 22:51:09,481 [INFO] 172.20.11.139 - - [06/Sep/2021 22:51:09] "GET /create HTTP/1.1" 200 -
+2021-09-06 22:51:09,512 [INFO] 172.20.11.139 - - [06/Sep/2021 22:51:09] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 22:52:02,491 [INFO]  * Detected change in 'D:\\Udacity\\nd064_course_1-main\\project\\techtrends\\app.py', reloading
+2021-09-06 22:52:02,578 [INFO]  * Restarting with stat
+2021-09-06 22:52:03,780 [WARNING]  * Debugger is active!
+2021-09-06 22:52:03,840 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 22:52:04,758 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 22:52:04,761 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 22:52:40,387 [INFO]  * Restarting with stat
+2021-09-06 22:52:41,045 [WARNING]  * Debugger is active!
+2021-09-06 22:52:41,059 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 22:52:41,946 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 22:52:41,947 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 22:52:43,620 [DEBUG] About us page is retrieved.
+2021-09-06 22:52:43,639 [INFO] 172.20.11.139 - - [06/Sep/2021 22:52:43] "GET /about HTTP/1.1" 200 -
+2021-09-06 22:52:44,043 [INFO] 172.20.11.139 - - [06/Sep/2021 22:52:44] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 22:52:45,560 [INFO] 172.20.11.139 - - [06/Sep/2021 22:52:45] "GET / HTTP/1.1" 200 -
+2021-09-06 22:52:45,593 [INFO] 172.20.11.139 - - [06/Sep/2021 22:52:45] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 22:52:49,396 [DEBUG] Received new post.
+2021-09-06 22:52:49,408 [INFO] 172.20.11.139 - - [06/Sep/2021 22:52:49] "GET /create HTTP/1.1" 200 -
+2021-09-06 22:52:49,442 [INFO] 172.20.11.139 - - [06/Sep/2021 22:52:49] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 22:52:55,591 [DEBUG] Received new post.
+2021-09-06 22:52:55,604 [INFO] Post inserted, title=khanaaa
+2021-09-06 22:52:55,605 [INFO] 172.20.11.139 - - [06/Sep/2021 22:52:55] "[32mPOST /create HTTP/1.1[0m" 302 -
+2021-09-06 22:52:55,625 [INFO] 172.20.11.139 - - [06/Sep/2021 22:52:55] "GET / HTTP/1.1" 200 -
+2021-09-06 22:52:55,668 [INFO] 172.20.11.139 - - [06/Sep/2021 22:52:55] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 22:52:57,418 [DEBUG] Fetch individual article.
+2021-09-06 22:52:57,418 [INFO] Article retrieved, post_id=7
+2021-09-06 22:52:57,434 [INFO] 172.20.11.139 - - [06/Sep/2021 22:52:57] "GET /7 HTTP/1.1" 200 -
+2021-09-06 22:52:57,473 [INFO] 172.20.11.139 - - [06/Sep/2021 22:52:57] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 22:53:00,134 [DEBUG] Received new post.
+2021-09-06 22:53:00,136 [INFO] 172.20.11.139 - - [06/Sep/2021 22:53:00] "GET /create HTTP/1.1" 200 -
+2021-09-06 22:53:00,192 [INFO] 172.20.11.139 - - [06/Sep/2021 22:53:00] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 22:53:06,306 [DEBUG] Received new post.
+2021-09-06 22:53:06,309 [INFO] Title is required!
+2021-09-06 22:53:06,313 [INFO] 172.20.11.139 - - [06/Sep/2021 22:53:06] "POST /create HTTP/1.1" 200 -
+2021-09-06 22:53:06,349 [INFO] 172.20.11.139 - - [06/Sep/2021 22:53:06] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 22:53:09,642 [DEBUG] Received new post.
+2021-09-06 22:53:09,654 [INFO] Title is required!
+2021-09-06 22:53:09,661 [INFO] 172.20.11.139 - - [06/Sep/2021 22:53:09] "POST /create HTTP/1.1" 200 -
+2021-09-06 22:53:09,709 [INFO] 172.20.11.139 - - [06/Sep/2021 22:53:09] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 22:54:16,996 [INFO]  * Restarting with stat
+2021-09-06 22:54:17,558 [WARNING]  * Debugger is active!
+2021-09-06 22:54:17,568 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 22:54:18,445 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 22:54:18,446 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 22:54:23,176 [DEBUG] About us page is retrieved.
+2021-09-06 22:54:23,196 [INFO] 172.20.11.139 - - [06/Sep/2021 22:54:23] "GET /about HTTP/1.1" 200 -
+2021-09-06 22:54:23,567 [INFO] 172.20.11.139 - - [06/Sep/2021 22:54:23] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 22:54:26,966 [INFO] 172.20.11.139 - - [06/Sep/2021 22:54:26] "GET / HTTP/1.1" 200 -
+2021-09-06 22:54:26,999 [INFO] 172.20.11.139 - - [06/Sep/2021 22:54:26] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 22:54:59,792 [DEBUG] Received new post.
+2021-09-06 22:54:59,803 [INFO] 172.20.11.139 - - [06/Sep/2021 22:54:59] "GET /create HTTP/1.1" 200 -
+2021-09-06 22:54:59,834 [INFO] 172.20.11.139 - - [06/Sep/2021 22:54:59] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 22:55:04,707 [DEBUG] Received new post.
+2021-09-06 22:55:04,711 [INFO] 172.20.11.139 - - [06/Sep/2021 22:55:04] "[32mPOST /create HTTP/1.1[0m" 302 -
+2021-09-06 22:55:04,718 [INFO] 172.20.11.139 - - [06/Sep/2021 22:55:04] "GET / HTTP/1.1" 200 -
+2021-09-06 22:55:04,774 [INFO] 172.20.11.139 - - [06/Sep/2021 22:55:04] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 22:56:41,459 [INFO]  * Detected change in 'D:\\Udacity\\nd064_course_1-main\\project\\techtrends\\app.py', reloading
+2021-09-06 22:56:41,537 [INFO]  * Restarting with stat
+2021-09-06 22:56:42,158 [WARNING]  * Debugger is active!
+2021-09-06 22:56:42,170 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 22:56:43,044 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 22:56:43,051 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 22:56:54,545 [INFO]  * Detected change in 'D:\\Udacity\\nd064_course_1-main\\project\\techtrends\\app.py', reloading
+2021-09-06 22:56:54,655 [INFO]  * Restarting with stat
+2021-09-06 22:56:55,555 [WARNING]  * Debugger is active!
+2021-09-06 22:56:55,564 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 22:56:56,453 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 22:56:56,454 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 22:57:23,400 [DEBUG] Received healthz request.
+2021-09-06 22:57:23,401 [INFO] healthz request successfull
+2021-09-06 22:57:23,404 [INFO] 172.20.11.139 - - [06/Sep/2021 22:57:23] "GET /healthz HTTP/1.1" 200 -
+2021-09-06 22:57:35,190 [DEBUG] About us page is retrieved.
+2021-09-06 22:57:35,207 [INFO] 172.20.11.139 - - [06/Sep/2021 22:57:35] "GET /about HTTP/1.1" 200 -
+2021-09-06 22:57:35,721 [INFO] 172.20.11.139 - - [06/Sep/2021 22:57:35] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 22:57:41,158 [DEBUG] Received healthz request.
+2021-09-06 22:57:41,163 [INFO] healthz request successfull
+2021-09-06 22:57:41,164 [INFO] 172.20.11.139 - - [06/Sep/2021 22:57:41] "GET /healthz HTTP/1.1" 200 -
+2021-09-06 22:59:54,593 [INFO]  * Detected change in 'D:\\Udacity\\nd064_course_1-main\\project\\techtrends\\app.py', reloading
+2021-09-06 22:59:54,680 [INFO]  * Restarting with stat
+2021-09-06 22:59:55,354 [WARNING]  * Debugger is active!
+2021-09-06 22:59:55,364 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 22:59:56,270 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 22:59:56,271 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 23:00:01,797 [INFO]  * Detected change in 'D:\\Udacity\\nd064_course_1-main\\project\\techtrends\\app.py', reloading
+2021-09-06 23:00:02,118 [INFO]  * Restarting with stat
+2021-09-06 23:00:03,583 [WARNING]  * Debugger is active!
+2021-09-06 23:00:03,606 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 23:00:04,567 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 23:00:04,568 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 23:00:04,750 [INFO]  * Detected change in 'D:\\Udacity\\nd064_course_1-main\\project\\techtrends\\app.py', reloading
+2021-09-06 23:00:04,818 [INFO]  * Restarting with stat
+2021-09-06 23:00:05,538 [WARNING]  * Debugger is active!
+2021-09-06 23:00:05,548 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 23:00:06,449 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 23:00:06,450 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 23:00:12,795 [INFO]  * Detected change in 'D:\\Udacity\\nd064_course_1-main\\project\\techtrends\\app.py', reloading
+2021-09-06 23:00:12,855 [INFO]  * Restarting with stat
+2021-09-06 23:00:13,485 [WARNING]  * Debugger is active!
+2021-09-06 23:00:13,495 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 23:00:14,369 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 23:00:14,376 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 23:00:32,771 [INFO]  * Restarting with stat
+2021-09-06 23:00:33,585 [WARNING]  * Debugger is active!
+2021-09-06 23:00:33,603 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 23:00:34,542 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 23:00:34,543 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 23:00:38,750 [DEBUG] Received healthz request.
+2021-09-06 23:00:38,750 [INFO] OK - healthy
+2021-09-06 23:00:38,754 [INFO] 172.20.11.139 - - [06/Sep/2021 23:00:38] "GET /healthz HTTP/1.1" 200 -
+2021-09-06 23:00:41,557 [DEBUG] Received healthz request.
+2021-09-06 23:00:41,560 [INFO] OK - healthy
+2021-09-06 23:00:41,564 [INFO] 172.20.11.139 - - [06/Sep/2021 23:00:41] "GET /healthz HTTP/1.1" 200 -
+2021-09-06 23:00:44,630 [DEBUG] Received healthz request.
+2021-09-06 23:00:44,630 [INFO] OK - healthy
+2021-09-06 23:00:44,633 [INFO] 172.20.11.139 - - [06/Sep/2021 23:00:44] "GET /healthz HTTP/1.1" 200 -
+2021-09-06 23:00:48,497 [INFO] 172.20.11.139 - - [06/Sep/2021 23:00:48] "GET / HTTP/1.1" 200 -
+2021-09-06 23:00:48,964 [INFO] 172.20.11.139 - - [06/Sep/2021 23:00:48] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 23:00:50,456 [DEBUG] About us page is retrieved.
+2021-09-06 23:00:50,462 [INFO] 172.20.11.139 - - [06/Sep/2021 23:00:50] "GET /about HTTP/1.1" 200 -
+2021-09-06 23:00:50,502 [INFO] 172.20.11.139 - - [06/Sep/2021 23:00:50] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 23:00:52,361 [DEBUG] Received new post.
+2021-09-06 23:00:52,371 [INFO] 172.20.11.139 - - [06/Sep/2021 23:00:52] "GET /create HTTP/1.1" 200 -
+2021-09-06 23:00:52,405 [INFO] 172.20.11.139 - - [06/Sep/2021 23:00:52] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 23:00:55,631 [DEBUG] Received new post.
+2021-09-06 23:00:55,634 [INFO] 172.20.11.139 - - [06/Sep/2021 23:00:55] "[32mPOST /create HTTP/1.1[0m" 302 -
+2021-09-06 23:00:55,642 [INFO] 172.20.11.139 - - [06/Sep/2021 23:00:55] "GET / HTTP/1.1" 200 -
+2021-09-06 23:00:55,685 [INFO] 172.20.11.139 - - [06/Sep/2021 23:00:55] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 23:00:59,035 [INFO] 172.20.11.139 - - [06/Sep/2021 23:00:59] "GET / HTTP/1.1" 200 -
+2021-09-06 23:00:59,078 [INFO] 172.20.11.139 - - [06/Sep/2021 23:00:59] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 23:02:12,417 [INFO]  * Detected change in 'D:\\Udacity\\nd064_course_1-main\\project\\techtrends\\app.py', reloading
+2021-09-06 23:02:12,498 [INFO]  * Restarting with stat
+2021-09-06 23:02:13,137 [WARNING]  * Debugger is active!
+2021-09-06 23:02:13,156 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 23:02:14,092 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 23:02:14,098 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 23:06:33,465 [INFO]  * Detected change in 'D:\\Udacity\\nd064_course_1-main\\project\\techtrends\\app.py', reloading
+2021-09-06 23:06:33,538 [INFO]  * Restarting with stat
+2021-09-06 23:06:34,258 [WARNING]  * Debugger is active!
+2021-09-06 23:06:34,268 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 23:06:35,158 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 23:06:35,160 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 23:06:39,458 [INFO]  * Detected change in 'D:\\Udacity\\nd064_course_1-main\\project\\techtrends\\app.py', reloading
+2021-09-06 23:06:39,526 [INFO]  * Restarting with stat
+2021-09-06 23:06:40,223 [WARNING]  * Debugger is active!
+2021-09-06 23:06:40,237 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 23:06:41,155 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 23:06:41,156 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 23:06:42,423 [INFO]  * Detected change in 'D:\\Udacity\\nd064_course_1-main\\project\\techtrends\\app.py', reloading
+2021-09-06 23:06:42,501 [INFO]  * Restarting with stat
+2021-09-06 23:06:43,146 [WARNING]  * Debugger is active!
+2021-09-06 23:06:43,154 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 23:06:44,043 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 23:06:44,044 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 23:06:45,273 [INFO]  * Detected change in 'D:\\Udacity\\nd064_course_1-main\\project\\techtrends\\app.py', reloading
+2021-09-06 23:06:45,387 [INFO]  * Restarting with stat
+2021-09-06 23:06:46,052 [WARNING]  * Debugger is active!
+2021-09-06 23:06:46,062 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 23:06:46,966 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 23:06:46,967 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 23:06:51,366 [INFO]  * Restarting with stat
+2021-09-06 23:06:51,978 [WARNING]  * Debugger is active!
+2021-09-06 23:06:51,991 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 23:06:52,870 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 23:06:52,871 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 23:06:56,056 [INFO] 172.20.11.139 - - [06/Sep/2021 23:06:56] "GET / HTTP/1.1" 200 -
+2021-09-06 23:06:56,506 [INFO] 172.20.11.139 - - [06/Sep/2021 23:06:56] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 23:06:57,682 [INFO] 172.20.11.139 - - [06/Sep/2021 23:06:57] "GET / HTTP/1.1" 200 -
+2021-09-06 23:06:57,724 [INFO] 172.20.11.139 - - [06/Sep/2021 23:06:57] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 23:06:59,248 [DEBUG] About us page is retrieved.
+2021-09-06 23:06:59,263 [INFO] 172.20.11.139 - - [06/Sep/2021 23:06:59] "GET /about HTTP/1.1" 200 -
+2021-09-06 23:06:59,295 [INFO] 172.20.11.139 - - [06/Sep/2021 23:06:59] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 23:07:00,687 [DEBUG] Received new post.
+2021-09-06 23:07:00,703 [INFO] 172.20.11.139 - - [06/Sep/2021 23:07:00] "GET /create HTTP/1.1" 200 -
+2021-09-06 23:07:00,744 [INFO] 172.20.11.139 - - [06/Sep/2021 23:07:00] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 23:07:04,449 [DEBUG] Received new post.
+2021-09-06 23:07:04,455 [INFO] 172.20.11.139 - - [06/Sep/2021 23:07:04] "[32mPOST /create HTTP/1.1[0m" 302 -
+2021-09-06 23:07:04,462 [INFO] 172.20.11.139 - - [06/Sep/2021 23:07:04] "GET / HTTP/1.1" 200 -
+2021-09-06 23:07:04,500 [INFO] 172.20.11.139 - - [06/Sep/2021 23:07:04] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 23:07:05,687 [INFO] 172.20.11.139 - - [06/Sep/2021 23:07:05] "GET / HTTP/1.1" 200 -
+2021-09-06 23:07:05,724 [INFO] 172.20.11.139 - - [06/Sep/2021 23:07:05] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 23:07:11,394 [DEBUG] Received healthz request.
+2021-09-06 23:07:11,394 [INFO] OK - healthy
+2021-09-06 23:07:11,399 [INFO] 172.20.11.139 - - [06/Sep/2021 23:07:11] "GET /healthz HTTP/1.1" 200 -
+2021-09-06 23:08:39,121 [DEBUG] Received healthz request.
+2021-09-06 23:08:39,123 [INFO] OK - healthy
+2021-09-06 23:08:39,127 [INFO] 172.20.11.139 - - [06/Sep/2021 23:08:39] "GET /healthz HTTP/1.1" 200 -
+2021-09-06 23:08:41,421 [DEBUG] Received healthz request.
+2021-09-06 23:08:41,422 [INFO] OK - healthy
+2021-09-06 23:08:41,425 [INFO] 172.20.11.139 - - [06/Sep/2021 23:08:41] "GET /healthz HTTP/1.1" 200 -
+2021-09-06 23:09:22,077 [INFO]  * Detected change in 'D:\\Udacity\\nd064_course_1-main\\project\\techtrends\\app.py', reloading
+2021-09-06 23:09:22,139 [INFO]  * Restarting with stat
+2021-09-06 23:09:22,819 [WARNING]  * Debugger is active!
+2021-09-06 23:09:22,830 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 23:09:23,717 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 23:09:23,718 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 23:09:33,829 [INFO]  * Restarting with stat
+2021-09-06 23:09:34,426 [WARNING]  * Debugger is active!
+2021-09-06 23:09:34,436 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 23:09:35,311 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 23:09:35,312 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 23:09:37,188 [DEBUG] Received healthz request.
+2021-09-06 23:09:37,191 [INFO] OK - healthy
+2021-09-06 23:09:37,195 [INFO] 172.20.11.139 - - [06/Sep/2021 23:09:37] "GET /healthz HTTP/1.1" 200 -
+2021-09-06 23:09:38,411 [DEBUG] Received healthz request.
+2021-09-06 23:09:38,414 [INFO] OK - healthy
+2021-09-06 23:09:38,416 [INFO] 172.20.11.139 - - [06/Sep/2021 23:09:38] "GET /healthz HTTP/1.1" 200 -
+2021-09-06 23:10:35,107 [DEBUG] Metrics request received.
+2021-09-06 23:10:35,130 [INFO] 172.20.11.139 - - [06/Sep/2021 23:10:35] "[35m[1mGET /metrics HTTP/1.1[0m" 500 -
+2021-09-06 23:10:35,633 [INFO] 172.20.11.139 - - [06/Sep/2021 23:10:35] "GET /metrics?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2021-09-06 23:10:35,654 [INFO] 172.20.11.139 - - [06/Sep/2021 23:10:35] "GET /metrics?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2021-09-06 23:10:35,900 [INFO] 172.20.11.139 - - [06/Sep/2021 23:10:35] "GET /metrics?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-09-06 23:10:35,986 [INFO] 172.20.11.139 - - [06/Sep/2021 23:10:35] "GET /metrics?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2021-09-06 23:10:36,023 [INFO] 172.20.11.139 - - [06/Sep/2021 23:10:36] "GET /metrics?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-09-06 23:12:23,121 [INFO]  * Detected change in 'D:\\Udacity\\nd064_course_1-main\\project\\techtrends\\app.py', reloading
+2021-09-06 23:12:23,207 [INFO]  * Restarting with stat
+2021-09-06 23:12:23,850 [WARNING]  * Debugger is active!
+2021-09-06 23:12:23,863 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 23:12:24,747 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 23:12:24,748 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 23:13:40,019 [INFO]  * Detected change in 'D:\\Udacity\\nd064_course_1-main\\project\\techtrends\\app.py', reloading
+2021-09-06 23:13:40,090 [INFO]  * Restarting with stat
+2021-09-06 23:13:40,730 [WARNING]  * Debugger is active!
+2021-09-06 23:13:40,746 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 23:13:41,650 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 23:13:41,654 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 23:13:50,116 [INFO]  * Detected change in 'D:\\Udacity\\nd064_course_1-main\\project\\techtrends\\app.py', reloading
+2021-09-06 23:13:50,182 [INFO]  * Restarting with stat
+2021-09-06 23:13:50,834 [WARNING]  * Debugger is active!
+2021-09-06 23:13:50,846 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 23:13:51,733 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 23:13:51,734 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 23:14:31,025 [INFO]  * Detected change in 'D:\\Udacity\\nd064_course_1-main\\project\\techtrends\\app.py', reloading
+2021-09-06 23:14:31,116 [INFO]  * Restarting with stat
+2021-09-06 23:14:31,751 [WARNING]  * Debugger is active!
+2021-09-06 23:14:31,761 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 23:14:32,656 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 23:14:32,685 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 23:15:00,658 [INFO]  * Detected change in 'D:\\Udacity\\nd064_course_1-main\\project\\techtrends\\app.py', reloading
+2021-09-06 23:15:00,736 [INFO]  * Restarting with stat
+2021-09-06 23:15:01,377 [WARNING]  * Debugger is active!
+2021-09-06 23:15:01,387 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 23:15:02,269 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 23:15:02,270 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 23:15:08,634 [INFO]  * Detected change in 'D:\\Udacity\\nd064_course_1-main\\project\\techtrends\\app.py', reloading
+2021-09-06 23:15:08,702 [INFO]  * Restarting with stat
+2021-09-06 23:15:09,371 [WARNING]  * Debugger is active!
+2021-09-06 23:15:09,387 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 23:15:10,298 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 23:15:10,300 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 23:15:46,539 [INFO]  * Detected change in 'D:\\Udacity\\nd064_course_1-main\\project\\techtrends\\app.py', reloading
+2021-09-06 23:15:46,610 [INFO]  * Restarting with stat
+2021-09-06 23:15:47,344 [WARNING]  * Debugger is active!
+2021-09-06 23:15:47,352 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 23:15:48,249 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 23:15:48,250 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 23:15:52,787 [INFO]  * Restarting with stat
+2021-09-06 23:15:53,383 [WARNING]  * Debugger is active!
+2021-09-06 23:15:53,392 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 23:15:54,272 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 23:15:54,273 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 23:16:07,966 [ERROR] SQLite error: no such table: posts
+2021-09-06 23:16:07,993 [INFO] 172.20.11.139 - - [06/Sep/2021 23:16:07] "GET / HTTP/1.1" 200 -
+2021-09-06 23:16:08,454 [INFO] 172.20.11.139 - - [06/Sep/2021 23:16:08] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 23:16:10,998 [DEBUG] About us page is retrieved.
+2021-09-06 23:16:11,005 [INFO] 172.20.11.139 - - [06/Sep/2021 23:16:11] "GET /about HTTP/1.1" 200 -
+2021-09-06 23:16:11,033 [INFO] 172.20.11.139 - - [06/Sep/2021 23:16:11] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 23:16:11,760 [DEBUG] Received new post.
+2021-09-06 23:16:11,770 [INFO] 172.20.11.139 - - [06/Sep/2021 23:16:11] "GET /create HTTP/1.1" 200 -
+2021-09-06 23:16:11,807 [INFO] 172.20.11.139 - - [06/Sep/2021 23:16:11] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 23:16:15,439 [DEBUG] Received new post.
+2021-09-06 23:16:15,445 [INFO] 172.20.11.139 - - [06/Sep/2021 23:16:15] "[32mPOST /create HTTP/1.1[0m" 302 -
+2021-09-06 23:16:15,451 [ERROR] SQLite error: no such table: posts
+2021-09-06 23:16:15,453 [INFO] 172.20.11.139 - - [06/Sep/2021 23:16:15] "GET / HTTP/1.1" 200 -
+2021-09-06 23:16:15,485 [INFO] 172.20.11.139 - - [06/Sep/2021 23:16:15] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 23:17:10,004 [DEBUG] Received healthz request.
+2021-09-06 23:17:10,004 [INFO] OK - healthy
+2021-09-06 23:17:10,007 [INFO] 172.20.11.139 - - [06/Sep/2021 23:17:10] "GET /healthz HTTP/1.1" 200 -
+2021-09-06 23:17:53,612 [INFO]  * Detected change in 'D:\\Udacity\\nd064_course_1-main\\project\\techtrends\\app.py', reloading
+2021-09-06 23:17:53,676 [INFO]  * Restarting with stat
+2021-09-06 23:17:54,343 [WARNING]  * Debugger is active!
+2021-09-06 23:17:54,358 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 23:17:55,264 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 23:17:55,271 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 23:18:05,116 [INFO]  * Restarting with stat
+2021-09-06 23:18:05,937 [WARNING]  * Debugger is active!
+2021-09-06 23:18:05,947 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 23:18:06,852 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 23:18:06,852 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 23:18:09,910 [ERROR] SQLite error: no such table: posts
+2021-09-06 23:18:09,930 [INFO] 172.20.11.139 - - [06/Sep/2021 23:18:09] "GET / HTTP/1.1" 200 -
+2021-09-06 23:18:10,450 [INFO] 172.20.11.139 - - [06/Sep/2021 23:18:10] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 23:18:13,727 [ERROR] SQLite error: no such table: posts
+2021-09-06 23:18:13,734 [INFO] 172.20.11.139 - - [06/Sep/2021 23:18:13] "GET / HTTP/1.1" 200 -
+2021-09-06 23:18:13,778 [INFO] 172.20.11.139 - - [06/Sep/2021 23:18:13] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 23:18:16,976 [ERROR] SQLite error: no such table: posts
+2021-09-06 23:18:16,982 [INFO] 172.20.11.139 - - [06/Sep/2021 23:18:16] "GET / HTTP/1.1" 200 -
+2021-09-06 23:18:17,014 [INFO] 172.20.11.139 - - [06/Sep/2021 23:18:17] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 23:18:32,952 [DEBUG] About us page is retrieved.
+2021-09-06 23:18:32,956 [INFO] 172.20.11.139 - - [06/Sep/2021 23:18:32] "GET /about HTTP/1.1" 200 -
+2021-09-06 23:18:33,001 [INFO] 172.20.11.139 - - [06/Sep/2021 23:18:33] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 23:18:34,189 [DEBUG] Received new post.
+2021-09-06 23:18:34,201 [INFO] 172.20.11.139 - - [06/Sep/2021 23:18:34] "GET /create HTTP/1.1" 200 -
+2021-09-06 23:18:34,230 [INFO] 172.20.11.139 - - [06/Sep/2021 23:18:34] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 23:18:37,842 [DEBUG] Received new post.
+2021-09-06 23:18:37,845 [INFO] 172.20.11.139 - - [06/Sep/2021 23:18:37] "[32mPOST /create HTTP/1.1[0m" 302 -
+2021-09-06 23:18:37,857 [ERROR] SQLite error: no such table: posts
+2021-09-06 23:18:37,859 [INFO] 172.20.11.139 - - [06/Sep/2021 23:18:37] "GET / HTTP/1.1" 200 -
+2021-09-06 23:18:37,898 [INFO] 172.20.11.139 - - [06/Sep/2021 23:18:37] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 23:18:58,134 [DEBUG] Received healthz request, True
+2021-09-06 23:18:58,136 [INFO] OK - healthy
+2021-09-06 23:18:58,137 [INFO] 172.20.11.139 - - [06/Sep/2021 23:18:58] "GET /healthz HTTP/1.1" 200 -
+2021-09-06 23:20:19,683 [INFO]  * Detected change in 'D:\\Udacity\\nd064_course_1-main\\project\\techtrends\\app.py', reloading
+2021-09-06 23:20:19,754 [INFO]  * Restarting with stat
+2021-09-06 23:20:20,462 [WARNING]  * Debugger is active!
+2021-09-06 23:20:20,472 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 23:20:21,350 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 23:20:21,351 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 23:20:38,073 [INFO]  * Detected change in 'D:\\Udacity\\nd064_course_1-main\\project\\techtrends\\app.py', reloading
+2021-09-06 23:20:38,138 [INFO]  * Restarting with stat
+2021-09-06 23:20:38,777 [WARNING]  * Debugger is active!
+2021-09-06 23:20:38,786 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 23:20:39,671 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 23:20:39,672 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 23:21:12,721 [INFO]  * Detected change in 'D:\\Udacity\\nd064_course_1-main\\project\\techtrends\\app.py', reloading
+2021-09-06 23:21:12,783 [INFO]  * Restarting with stat
+2021-09-06 23:21:13,612 [WARNING]  * Debugger is active!
+2021-09-06 23:21:13,626 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 23:21:14,502 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 23:21:14,503 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 23:25:40,749 [INFO]  * Detected change in 'D:\\Udacity\\nd064_course_1-main\\project\\techtrends\\app.py', reloading
+2021-09-06 23:25:40,844 [INFO]  * Restarting with stat
+2021-09-06 23:25:41,580 [WARNING]  * Debugger is active!
+2021-09-06 23:25:41,598 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 23:25:42,528 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 23:25:42,546 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 23:26:26,936 [INFO]  * Detected change in 'D:\\Udacity\\nd064_course_1-main\\project\\techtrends\\app.py', reloading
+2021-09-06 23:26:27,005 [INFO]  * Restarting with stat
+2021-09-06 23:26:27,703 [WARNING]  * Debugger is active!
+2021-09-06 23:26:27,713 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 23:26:28,591 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 23:26:28,592 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 23:28:23,829 [INFO]  * Detected change in 'D:\\Udacity\\nd064_course_1-main\\project\\techtrends\\app.py', reloading
+2021-09-06 23:28:23,902 [INFO]  * Restarting with stat
+2021-09-06 23:28:24,513 [WARNING]  * Debugger is active!
+2021-09-06 23:28:24,522 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 23:28:25,410 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 23:28:25,413 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 23:30:17,833 [INFO]  * Detected change in 'D:\\Udacity\\nd064_course_1-main\\project\\techtrends\\app.py', reloading
+2021-09-06 23:30:17,902 [INFO]  * Restarting with stat
+2021-09-06 23:30:18,654 [WARNING]  * Debugger is active!
+2021-09-06 23:30:18,666 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 23:30:19,545 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 23:30:19,546 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 23:30:23,872 [INFO]  * Detected change in 'D:\\Udacity\\nd064_course_1-main\\project\\techtrends\\app.py', reloading
+2021-09-06 23:30:23,963 [INFO]  * Restarting with stat
+2021-09-06 23:30:24,651 [WARNING]  * Debugger is active!
+2021-09-06 23:30:24,662 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 23:30:25,561 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 23:30:25,568 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 23:30:26,771 [INFO]  * Detected change in 'D:\\Udacity\\nd064_course_1-main\\project\\techtrends\\app.py', reloading
+2021-09-06 23:30:26,843 [INFO]  * Restarting with stat
+2021-09-06 23:30:27,432 [WARNING]  * Debugger is active!
+2021-09-06 23:30:27,442 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 23:30:28,324 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 23:30:28,328 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 23:30:34,040 [INFO]  * Restarting with stat
+2021-09-06 23:30:34,697 [WARNING]  * Debugger is active!
+2021-09-06 23:30:34,707 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 23:30:35,591 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 23:30:35,596 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 23:30:39,727 [DEBUG] Received healthz request, True
+2021-09-06 23:30:39,727 [INFO] OK - healthy
+2021-09-06 23:30:39,731 [INFO] 172.20.11.139 - - [06/Sep/2021 23:30:39] "GET /healthz HTTP/1.1" 200 -
+2021-09-06 23:30:40,682 [DEBUG] Received healthz request, True
+2021-09-06 23:30:40,684 [INFO] OK - healthy
+2021-09-06 23:30:40,688 [INFO] 172.20.11.139 - - [06/Sep/2021 23:30:40] "GET /healthz HTTP/1.1" 200 -
+2021-09-06 23:30:43,120 [ERROR] SQLite error: no such table: posts
+2021-09-06 23:30:43,137 [INFO] 172.20.11.139 - - [06/Sep/2021 23:30:43] "GET / HTTP/1.1" 200 -
+2021-09-06 23:30:43,757 [INFO] 172.20.11.139 - - [06/Sep/2021 23:30:43] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 23:30:44,259 [DEBUG] About us page is retrieved.
+2021-09-06 23:30:44,267 [INFO] 172.20.11.139 - - [06/Sep/2021 23:30:44] "GET /about HTTP/1.1" 200 -
+2021-09-06 23:30:44,312 [INFO] 172.20.11.139 - - [06/Sep/2021 23:30:44] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 23:30:50,087 [DEBUG] Received healthz request, True
+2021-09-06 23:30:50,087 [INFO] OK - healthy
+2021-09-06 23:30:50,099 [INFO] 172.20.11.139 - - [06/Sep/2021 23:30:50] "GET /healthz HTTP/1.1" 200 -
+2021-09-06 23:31:39,595 [INFO]  * Detected change in 'D:\\Udacity\\nd064_course_1-main\\project\\techtrends\\app.py', reloading
+2021-09-06 23:31:39,690 [INFO]  * Restarting with stat
+2021-09-06 23:31:40,328 [WARNING]  * Debugger is active!
+2021-09-06 23:31:40,338 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 23:31:41,257 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 23:31:41,267 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 23:31:47,587 [INFO]  * Detected change in 'D:\\Udacity\\nd064_course_1-main\\project\\techtrends\\app.py', reloading
+2021-09-06 23:31:47,650 [INFO]  * Restarting with stat
+2021-09-06 23:31:48,381 [WARNING]  * Debugger is active!
+2021-09-06 23:31:48,394 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 23:31:49,277 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 23:31:49,278 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 23:31:52,037 [INFO]  * Restarting with stat
+2021-09-06 23:31:52,660 [WARNING]  * Debugger is active!
+2021-09-06 23:31:52,670 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 23:31:53,542 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 23:31:53,543 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 23:31:56,001 [DEBUG] About us page is retrieved.
+2021-09-06 23:31:56,017 [INFO] 172.20.11.139 - - [06/Sep/2021 23:31:56] "GET /about HTTP/1.1" 200 -
+2021-09-06 23:31:56,397 [INFO] 172.20.11.139 - - [06/Sep/2021 23:31:56] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 23:32:06,423 [ERROR] SQLite error: no such table: posts
+2021-09-06 23:32:06,433 [INFO] 172.20.11.139 - - [06/Sep/2021 23:32:06] "GET / HTTP/1.1" 200 -
+2021-09-06 23:32:06,469 [INFO] 172.20.11.139 - - [06/Sep/2021 23:32:06] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 23:32:16,505 [DEBUG] Received healthz request, True
+2021-09-06 23:32:16,506 [INFO] OK - healthy
+2021-09-06 23:32:16,515 [INFO] 172.20.11.139 - - [06/Sep/2021 23:32:16] "GET /healthz HTTP/1.1" 200 -
+2021-09-06 23:32:38,012 [INFO]  * Detected change in 'D:\\Udacity\\nd064_course_1-main\\project\\techtrends\\app.py', reloading
+2021-09-06 23:32:38,105 [INFO]  * Restarting with stat
+2021-09-06 23:32:38,915 [WARNING]  * Debugger is active!
+2021-09-06 23:32:38,925 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 23:32:39,827 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 23:32:39,835 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 23:32:42,075 [INFO]  * Detected change in 'D:\\Udacity\\nd064_course_1-main\\project\\techtrends\\app.py', reloading
+2021-09-06 23:32:42,151 [INFO]  * Restarting with stat
+2021-09-06 23:32:42,845 [WARNING]  * Debugger is active!
+2021-09-06 23:32:42,870 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 23:32:43,778 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 23:32:43,778 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 23:33:42,564 [INFO]  * Detected change in 'D:\\Udacity\\nd064_course_1-main\\project\\techtrends\\app.py', reloading
+2021-09-06 23:33:42,628 [INFO]  * Restarting with stat
+2021-09-06 23:33:43,313 [WARNING]  * Debugger is active!
+2021-09-06 23:33:43,325 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 23:33:44,241 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 23:33:44,244 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 23:33:49,461 [INFO]  * Restarting with stat
+2021-09-06 23:33:50,099 [WARNING]  * Debugger is active!
+2021-09-06 23:33:50,109 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 23:33:51,046 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 23:33:51,052 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 23:33:53,177 [ERROR] SQLite error: no such table: posts
+2021-09-06 23:33:53,193 [INFO] 172.20.11.139 - - [06/Sep/2021 23:33:53] "GET / HTTP/1.1" 200 -
+2021-09-06 23:33:53,593 [INFO] 172.20.11.139 - - [06/Sep/2021 23:33:53] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 23:34:06,675 [DEBUG] Received healthz request, <function getHealth at 0x00000186C9A4CDC0>
+2021-09-06 23:34:06,676 [INFO] OK - healthy
+2021-09-06 23:34:06,679 [INFO] 172.20.11.139 - - [06/Sep/2021 23:34:06] "GET /healthz HTTP/1.1" 200 -
+2021-09-06 23:35:14,494 [INFO]  * Detected change in 'D:\\Udacity\\nd064_course_1-main\\project\\techtrends\\app.py', reloading
+2021-09-06 23:35:14,585 [INFO]  * Restarting with stat
+2021-09-06 23:35:15,245 [WARNING]  * Debugger is active!
+2021-09-06 23:35:15,255 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 23:35:16,136 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 23:35:16,137 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 23:35:20,462 [INFO]  * Detected change in 'D:\\Udacity\\nd064_course_1-main\\project\\techtrends\\app.py', reloading
+2021-09-06 23:35:20,529 [INFO]  * Restarting with stat
+2021-09-06 23:35:21,283 [WARNING]  * Debugger is active!
+2021-09-06 23:35:21,296 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 23:35:22,173 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 23:35:22,180 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 23:35:26,244 [INFO]  * Restarting with stat
+2021-09-06 23:35:26,891 [WARNING]  * Debugger is active!
+2021-09-06 23:35:26,904 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 23:35:27,785 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 23:35:27,786 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 23:35:29,590 [ERROR] SQLite error: no such table: posts
+2021-09-06 23:35:29,608 [INFO] 172.20.11.139 - - [06/Sep/2021 23:35:29] "GET / HTTP/1.1" 200 -
+2021-09-06 23:35:30,041 [INFO] 172.20.11.139 - - [06/Sep/2021 23:35:30] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 23:35:30,901 [DEBUG] About us page is retrieved.
+2021-09-06 23:35:30,906 [INFO] 172.20.11.139 - - [06/Sep/2021 23:35:30] "GET /about HTTP/1.1" 200 -
+2021-09-06 23:35:30,944 [INFO] 172.20.11.139 - - [06/Sep/2021 23:35:30] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 23:35:38,050 [INFO] 172.20.11.139 - - [06/Sep/2021 23:35:38] "[35m[1mGET /healthz HTTP/1.1[0m" 500 -
+2021-09-06 23:35:38,113 [INFO] 172.20.11.139 - - [06/Sep/2021 23:35:38] "GET /healthz?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2021-09-06 23:35:38,126 [INFO] 172.20.11.139 - - [06/Sep/2021 23:35:38] "GET /healthz?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2021-09-06 23:35:38,424 [INFO] 172.20.11.139 - - [06/Sep/2021 23:35:38] "GET /healthz?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-09-06 23:35:38,457 [INFO] 172.20.11.139 - - [06/Sep/2021 23:35:38] "GET /healthz?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2021-09-06 23:35:38,479 [INFO] 172.20.11.139 - - [06/Sep/2021 23:35:38] "GET /healthz?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-09-06 23:36:48,052 [INFO]  * Detected change in 'D:\\Udacity\\nd064_course_1-main\\project\\techtrends\\app.py', reloading
+2021-09-06 23:36:48,132 [INFO]  * Restarting with stat
+2021-09-06 23:36:49,134 [WARNING]  * Debugger is active!
+2021-09-06 23:36:49,183 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 23:36:50,229 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 23:36:50,230 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 23:37:06,861 [INFO]  * Detected change in 'D:\\Udacity\\nd064_course_1-main\\project\\techtrends\\app.py', reloading
+2021-09-06 23:37:06,931 [INFO]  * Restarting with stat
+2021-09-06 23:37:07,577 [WARNING]  * Debugger is active!
+2021-09-06 23:37:07,589 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 23:37:08,481 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 23:37:08,483 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 23:37:12,831 [INFO]  * Detected change in 'D:\\Udacity\\nd064_course_1-main\\project\\techtrends\\app.py', reloading
+2021-09-06 23:37:12,900 [INFO]  * Restarting with stat
+2021-09-06 23:37:13,653 [WARNING]  * Debugger is active!
+2021-09-06 23:37:13,661 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 23:37:14,562 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 23:37:14,563 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 23:37:21,333 [INFO]  * Restarting with stat
+2021-09-06 23:37:21,984 [WARNING]  * Debugger is active!
+2021-09-06 23:37:21,993 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 23:37:22,873 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 23:37:22,875 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 23:37:25,705 [INFO] 172.20.11.139 - - [06/Sep/2021 23:37:25] "GET / HTTP/1.1" 200 -
+2021-09-06 23:37:26,153 [INFO] 172.20.11.139 - - [06/Sep/2021 23:37:26] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 23:37:29,229 [DEBUG] About us page is retrieved.
+2021-09-06 23:37:29,238 [INFO] 172.20.11.139 - - [06/Sep/2021 23:37:29] "GET /about HTTP/1.1" 200 -
+2021-09-06 23:37:29,285 [INFO] 172.20.11.139 - - [06/Sep/2021 23:37:29] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 23:37:38,635 [ERROR] SQLite error: no such table: posts
+2021-09-06 23:37:38,656 [INFO] 172.20.11.139 - - [06/Sep/2021 23:37:38] "GET / HTTP/1.1" 200 -
+2021-09-06 23:37:38,782 [INFO] 172.20.11.139 - - [06/Sep/2021 23:37:38] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 23:37:39,936 [DEBUG] About us page is retrieved.
+2021-09-06 23:37:39,943 [INFO] 172.20.11.139 - - [06/Sep/2021 23:37:39] "GET /about HTTP/1.1" 200 -
+2021-09-06 23:37:39,984 [INFO] 172.20.11.139 - - [06/Sep/2021 23:37:39] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 23:37:49,274 [DEBUG] Received healthz request, False
+2021-09-06 23:37:49,274 [INFO] ERROR - unhealthy
+2021-09-06 23:37:49,277 [INFO] 172.20.11.139 - - [06/Sep/2021 23:37:49] "[35m[1mGET /healthz HTTP/1.1[0m" 500 -
+2021-09-06 23:38:40,117 [DEBUG] Received new post.
+2021-09-06 23:38:40,130 [INFO] 172.20.11.139 - - [06/Sep/2021 23:38:40] "GET /create HTTP/1.1" 200 -
+2021-09-06 23:38:40,166 [INFO] 172.20.11.139 - - [06/Sep/2021 23:38:40] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 23:38:44,366 [DEBUG] Received new post.
+2021-09-06 23:38:44,368 [ERROR] SQLite error: no such table: posts
+2021-09-06 23:38:44,369 [INFO] 172.20.11.139 - - [06/Sep/2021 23:38:44] "[32mPOST /create HTTP/1.1[0m" 302 -
+2021-09-06 23:38:44,374 [ERROR] SQLite error: no such table: posts
+2021-09-06 23:38:44,375 [INFO] 172.20.11.139 - - [06/Sep/2021 23:38:44] "GET / HTTP/1.1" 200 -
+2021-09-06 23:38:44,406 [INFO] 172.20.11.139 - - [06/Sep/2021 23:38:44] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 23:39:11,854 [DEBUG] About us page is retrieved.
+2021-09-06 23:39:11,859 [INFO] 172.20.11.139 - - [06/Sep/2021 23:39:11] "GET /about HTTP/1.1" 200 -
+2021-09-06 23:39:11,900 [INFO] 172.20.11.139 - - [06/Sep/2021 23:39:11] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 23:39:13,055 [INFO] 172.20.11.139 - - [06/Sep/2021 23:39:13] "GET / HTTP/1.1" 200 -
+2021-09-06 23:39:13,092 [INFO] 172.20.11.139 - - [06/Sep/2021 23:39:13] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 23:39:14,753 [DEBUG] Fetch individual article.
+2021-09-06 23:39:14,757 [INFO] Article retrieved, post_id=5
+2021-09-06 23:39:14,761 [INFO] 172.20.11.139 - - [06/Sep/2021 23:39:14] "GET /5 HTTP/1.1" 200 -
+2021-09-06 23:39:14,794 [INFO] 172.20.11.139 - - [06/Sep/2021 23:39:14] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 23:39:20,947 [DEBUG] Received healthz request, False
+2021-09-06 23:39:20,948 [INFO] ERROR - unhealthy
+2021-09-06 23:39:20,949 [INFO] 172.20.11.139 - - [06/Sep/2021 23:39:20] "[35m[1mGET /healthz HTTP/1.1[0m" 500 -
+2021-09-06 23:39:45,394 [INFO] 172.20.11.139 - - [06/Sep/2021 23:39:45] "GET / HTTP/1.1" 200 -
+2021-09-06 23:39:45,433 [INFO] 172.20.11.139 - - [06/Sep/2021 23:39:45] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 23:40:34,485 [INFO]  * Detected change in 'D:\\Udacity\\nd064_course_1-main\\project\\techtrends\\app.py', reloading
+2021-09-06 23:40:34,564 [INFO]  * Restarting with stat
+2021-09-06 23:40:35,310 [WARNING]  * Debugger is active!
+2021-09-06 23:40:35,319 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 23:40:36,218 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 23:40:36,220 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 23:40:45,713 [INFO]  * Detected change in 'D:\\Udacity\\nd064_course_1-main\\project\\techtrends\\app.py', reloading
+2021-09-06 23:40:45,826 [INFO]  * Restarting with stat
+2021-09-06 23:40:46,479 [WARNING]  * Debugger is active!
+2021-09-06 23:40:46,486 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 23:40:47,358 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 23:40:47,359 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 23:40:50,646 [INFO]  * Detected change in 'D:\\Udacity\\nd064_course_1-main\\project\\techtrends\\app.py', reloading
+2021-09-06 23:40:50,734 [INFO]  * Restarting with stat
+2021-09-06 23:40:51,499 [WARNING]  * Debugger is active!
+2021-09-06 23:40:51,510 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 23:40:52,410 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 23:40:52,417 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 23:41:43,033 [INFO]  * Detected change in 'D:\\Udacity\\nd064_course_1-main\\project\\techtrends\\app.py', reloading
+2021-09-06 23:41:43,123 [INFO]  * Restarting with stat
+2021-09-06 23:41:43,830 [WARNING]  * Debugger is active!
+2021-09-06 23:41:43,844 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 23:41:44,747 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 23:41:44,750 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 23:42:02,365 [INFO]  * Detected change in 'D:\\Udacity\\nd064_course_1-main\\project\\techtrends\\app.py', reloading
+2021-09-06 23:42:02,442 [INFO]  * Restarting with stat
+2021-09-06 23:42:03,118 [WARNING]  * Debugger is active!
+2021-09-06 23:42:03,130 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 23:42:04,040 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 23:42:04,044 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 23:42:09,038 [INFO]  * Restarting with stat
+2021-09-06 23:42:09,637 [WARNING]  * Debugger is active!
+2021-09-06 23:42:09,649 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 23:42:10,526 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 23:42:10,526 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 23:42:12,139 [DEBUG] Fetch individual article.
+2021-09-06 23:42:12,149 [INFO] Article retrieved, post_id=3
+2021-09-06 23:42:12,180 [INFO] 172.20.11.139 - - [06/Sep/2021 23:42:12] "GET /3 HTTP/1.1" 200 -
+2021-09-06 23:42:12,624 [INFO] 172.20.11.139 - - [06/Sep/2021 23:42:12] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 23:42:14,501 [INFO] 172.20.11.139 - - [06/Sep/2021 23:42:14] "GET / HTTP/1.1" 200 -
+2021-09-06 23:42:14,544 [INFO] 172.20.11.139 - - [06/Sep/2021 23:42:14] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 23:42:15,742 [DEBUG] About us page is retrieved.
+2021-09-06 23:42:15,749 [INFO] 172.20.11.139 - - [06/Sep/2021 23:42:15] "GET /about HTTP/1.1" 200 -
+2021-09-06 23:42:15,778 [INFO] 172.20.11.139 - - [06/Sep/2021 23:42:15] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 23:42:17,031 [DEBUG] Received new post.
+2021-09-06 23:42:17,040 [INFO] 172.20.11.139 - - [06/Sep/2021 23:42:17] "GET /create HTTP/1.1" 200 -
+2021-09-06 23:42:17,075 [INFO] 172.20.11.139 - - [06/Sep/2021 23:42:17] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 23:42:21,629 [DEBUG] Received new post.
+2021-09-06 23:42:21,645 [INFO] Post inserted, title=xx
+2021-09-06 23:42:21,646 [INFO] 172.20.11.139 - - [06/Sep/2021 23:42:21] "[32mPOST /create HTTP/1.1[0m" 302 -
+2021-09-06 23:42:21,667 [INFO] 172.20.11.139 - - [06/Sep/2021 23:42:21] "GET / HTTP/1.1" 200 -
+2021-09-06 23:42:21,699 [INFO] 172.20.11.139 - - [06/Sep/2021 23:42:21] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 23:42:23,615 [DEBUG] Fetch individual article.
+2021-09-06 23:42:23,616 [INFO] Article retrieved, post_id=8
+2021-09-06 23:42:23,622 [INFO] 172.20.11.139 - - [06/Sep/2021 23:42:23] "GET /8 HTTP/1.1" 200 -
+2021-09-06 23:42:23,664 [INFO] 172.20.11.139 - - [06/Sep/2021 23:42:23] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 23:42:25,613 [INFO] 172.20.11.139 - - [06/Sep/2021 23:42:25] "GET / HTTP/1.1" 200 -
+2021-09-06 23:42:25,657 [INFO] 172.20.11.139 - - [06/Sep/2021 23:42:25] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 23:42:34,995 [DEBUG] Received healthz request, True
+2021-09-06 23:42:34,995 [INFO] OK - healthy
+2021-09-06 23:42:34,997 [INFO] 172.20.11.139 - - [06/Sep/2021 23:42:34] "GET /healthz HTTP/1.1" 200 -
+2021-09-06 23:42:45,834 [DEBUG] Received healthz request, True
+2021-09-06 23:42:45,839 [INFO] OK - healthy
+2021-09-06 23:42:45,840 [INFO] 172.20.11.139 - - [06/Sep/2021 23:42:45] "GET /healthz HTTP/1.1" 200 -
+2021-09-06 23:42:48,904 [DEBUG] Received healthz request, True
+2021-09-06 23:42:48,907 [INFO] OK - healthy
+2021-09-06 23:42:48,911 [INFO] 172.20.11.139 - - [06/Sep/2021 23:42:48] "GET /healthz HTTP/1.1" 200 -
+2021-09-06 23:43:01,412 [ERROR] SQLite error: no such table: posts
+2021-09-06 23:43:01,414 [INFO] 172.20.11.139 - - [06/Sep/2021 23:43:01] "GET / HTTP/1.1" 200 -
+2021-09-06 23:43:01,447 [INFO] 172.20.11.139 - - [06/Sep/2021 23:43:01] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 23:43:07,082 [DEBUG] Received new post.
+2021-09-06 23:43:07,085 [INFO] 172.20.11.139 - - [06/Sep/2021 23:43:07] "GET /create HTTP/1.1" 200 -
+2021-09-06 23:43:11,795 [DEBUG] Received new post.
+2021-09-06 23:43:11,798 [ERROR] SQLite error: no such table: posts
+2021-09-06 23:43:11,802 [INFO] 172.20.11.139 - - [06/Sep/2021 23:43:11] "[32mPOST /create HTTP/1.1[0m" 302 -
+2021-09-06 23:43:11,819 [ERROR] SQLite error: no such table: posts
+2021-09-06 23:43:11,821 [INFO] 172.20.11.139 - - [06/Sep/2021 23:43:11] "GET / HTTP/1.1" 200 -
+2021-09-06 23:43:11,863 [INFO] 172.20.11.139 - - [06/Sep/2021 23:43:11] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 23:43:17,385 [DEBUG] Received healthz request, False
+2021-09-06 23:43:17,386 [INFO] ERROR - unhealthy
+2021-09-06 23:43:17,389 [INFO] 172.20.11.139 - - [06/Sep/2021 23:43:17] "[35m[1mGET /healthz HTTP/1.1[0m" 500 -
+2021-09-06 23:43:48,319 [DEBUG] Received healthz request, False
+2021-09-06 23:43:48,320 [INFO] ERROR - unhealthy
+2021-09-06 23:43:48,322 [INFO] 172.20.11.139 - - [06/Sep/2021 23:43:48] "[35m[1mGET /healthz HTTP/1.1[0m" 500 -
+2021-09-06 23:43:51,525 [INFO] 172.20.11.139 - - [06/Sep/2021 23:43:51] "GET / HTTP/1.1" 200 -
+2021-09-06 23:43:51,567 [INFO] 172.20.11.139 - - [06/Sep/2021 23:43:51] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 23:43:53,224 [DEBUG] Fetch individual article.
+2021-09-06 23:43:53,225 [INFO] Article retrieved, post_id=4
+2021-09-06 23:43:53,227 [INFO] 172.20.11.139 - - [06/Sep/2021 23:43:53] "GET /4 HTTP/1.1" 200 -
+2021-09-06 23:43:53,264 [INFO] 172.20.11.139 - - [06/Sep/2021 23:43:53] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 23:43:54,384 [INFO] 172.20.11.139 - - [06/Sep/2021 23:43:54] "GET / HTTP/1.1" 200 -
+2021-09-06 23:43:54,425 [INFO] 172.20.11.139 - - [06/Sep/2021 23:43:54] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 23:43:58,711 [DEBUG] Received healthz request, True
+2021-09-06 23:43:58,712 [INFO] OK - healthy
+2021-09-06 23:43:58,713 [INFO] 172.20.11.139 - - [06/Sep/2021 23:43:58] "GET /healthz HTTP/1.1" 200 -
+2021-09-06 23:44:02,768 [DEBUG] About us page is retrieved.
+2021-09-06 23:44:02,772 [INFO] 172.20.11.139 - - [06/Sep/2021 23:44:02] "GET /about HTTP/1.1" 200 -
+2021-09-06 23:44:02,816 [INFO] 172.20.11.139 - - [06/Sep/2021 23:44:02] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 23:44:03,470 [DEBUG] Received new post.
+2021-09-06 23:44:03,473 [INFO] 172.20.11.139 - - [06/Sep/2021 23:44:03] "GET /create HTTP/1.1" 200 -
+2021-09-06 23:44:03,503 [INFO] 172.20.11.139 - - [06/Sep/2021 23:44:03] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 23:44:13,437 [DEBUG] Received new post.
+2021-09-06 23:44:13,444 [INFO] Post inserted, title=my
+2021-09-06 23:44:13,446 [INFO] 172.20.11.139 - - [06/Sep/2021 23:44:13] "[32mPOST /create HTTP/1.1[0m" 302 -
+2021-09-06 23:44:13,469 [INFO] 172.20.11.139 - - [06/Sep/2021 23:44:13] "GET / HTTP/1.1" 200 -
+2021-09-06 23:44:13,528 [INFO] 172.20.11.139 - - [06/Sep/2021 23:44:13] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 23:44:14,775 [INFO] 172.20.11.139 - - [06/Sep/2021 23:44:14] "GET / HTTP/1.1" 200 -
+2021-09-06 23:44:14,808 [INFO] 172.20.11.139 - - [06/Sep/2021 23:44:14] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 23:44:16,502 [INFO] 172.20.11.139 - - [06/Sep/2021 23:44:16] "GET / HTTP/1.1" 200 -
+2021-09-06 23:44:16,549 [INFO] 172.20.11.139 - - [06/Sep/2021 23:44:16] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 23:44:21,143 [DEBUG] Received healthz request, True
+2021-09-06 23:44:21,145 [INFO] OK - healthy
+2021-09-06 23:44:21,146 [INFO] 172.20.11.139 - - [06/Sep/2021 23:44:21] "GET /healthz HTTP/1.1" 200 -
+2021-09-06 23:44:31,847 [DEBUG] Fetch individual article.
+2021-09-06 23:44:31,853 [ERROR] SQLite error: no such table: posts
+2021-09-06 23:44:31,865 [INFO] 172.20.11.139 - - [06/Sep/2021 23:44:31] "[35m[1mGET /1 HTTP/1.1[0m" 500 -
+2021-09-06 23:44:31,902 [INFO] 172.20.11.139 - - [06/Sep/2021 23:44:31] "GET /1?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2021-09-06 23:44:31,913 [INFO] 172.20.11.139 - - [06/Sep/2021 23:44:31] "GET /1?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2021-09-06 23:44:32,152 [INFO] 172.20.11.139 - - [06/Sep/2021 23:44:32] "GET /1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-09-06 23:44:32,176 [INFO] 172.20.11.139 - - [06/Sep/2021 23:44:32] "GET /1?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2021-09-06 23:44:32,209 [INFO] 172.20.11.139 - - [06/Sep/2021 23:44:32] "GET /1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-09-06 23:45:48,351 [INFO]  * Detected change in 'D:\\Udacity\\nd064_course_1-main\\project\\techtrends\\app.py', reloading
+2021-09-06 23:45:48,424 [INFO]  * Restarting with stat
+2021-09-06 23:45:49,125 [WARNING]  * Debugger is active!
+2021-09-06 23:45:49,137 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 23:45:50,024 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 23:45:50,025 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 23:45:57,474 [INFO]  * Detected change in 'D:\\Udacity\\nd064_course_1-main\\project\\techtrends\\app.py', reloading
+2021-09-06 23:45:57,562 [INFO]  * Restarting with stat
+2021-09-06 23:45:58,221 [WARNING]  * Debugger is active!
+2021-09-06 23:45:58,231 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 23:45:59,163 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 23:45:59,164 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 23:46:00,393 [INFO]  * Detected change in 'D:\\Udacity\\nd064_course_1-main\\project\\techtrends\\app.py', reloading
+2021-09-06 23:46:00,470 [INFO]  * Restarting with stat
+2021-09-06 23:46:01,073 [WARNING]  * Debugger is active!
+2021-09-06 23:46:01,081 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 23:46:01,972 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 23:46:01,973 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 23:46:18,613 [INFO]  * Detected change in 'D:\\Udacity\\nd064_course_1-main\\project\\techtrends\\app.py', reloading
+2021-09-06 23:46:18,672 [INFO]  * Restarting with stat
+2021-09-06 23:46:19,267 [WARNING]  * Debugger is active!
+2021-09-06 23:46:19,274 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 23:46:20,148 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 23:46:20,150 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 23:46:39,860 [INFO]  * Detected change in 'D:\\Udacity\\nd064_course_1-main\\project\\techtrends\\app.py', reloading
+2021-09-06 23:46:39,927 [INFO]  * Restarting with stat
+2021-09-06 23:46:40,718 [WARNING]  * Debugger is active!
+2021-09-06 23:46:40,726 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 23:46:41,613 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 23:46:41,614 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 23:46:46,730 [INFO]  * Restarting with stat
+2021-09-06 23:46:47,355 [WARNING]  * Debugger is active!
+2021-09-06 23:46:47,370 [INFO]  * Debugger PIN: 492-045-608
+2021-09-06 23:46:48,341 [WARNING]  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-09-06 23:46:48,342 [INFO]  * Running on http://172.20.11.139:3111/ (Press CTRL+C to quit)
+2021-09-06 23:46:50,029 [DEBUG] Fetch individual article.
+2021-09-06 23:46:50,030 [ERROR] SQLite error: no such table: posts
+2021-09-06 23:46:50,031 [INFO] Article retrieved, post_id=1
+2021-09-06 23:46:50,047 [INFO] 172.20.11.139 - - [06/Sep/2021 23:46:50] "GET /1 HTTP/1.1" 200 -
+2021-09-06 23:46:50,558 [INFO] 172.20.11.139 - - [06/Sep/2021 23:46:50] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 23:46:56,923 [ERROR] SQLite error: no such table: posts
+2021-09-06 23:46:56,931 [INFO] 172.20.11.139 - - [06/Sep/2021 23:46:56] "GET / HTTP/1.1" 200 -
+2021-09-06 23:46:56,975 [INFO] 172.20.11.139 - - [06/Sep/2021 23:46:56] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 23:46:58,319 [DEBUG] About us page is retrieved.
+2021-09-06 23:46:58,335 [INFO] 172.20.11.139 - - [06/Sep/2021 23:46:58] "GET /about HTTP/1.1" 200 -
+2021-09-06 23:46:58,385 [INFO] 172.20.11.139 - - [06/Sep/2021 23:46:58] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 23:47:13,169 [INFO] 172.20.11.139 - - [06/Sep/2021 23:47:13] "GET / HTTP/1.1" 200 -
+2021-09-06 23:47:13,199 [INFO] 172.20.11.139 - - [06/Sep/2021 23:47:13] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 23:47:14,391 [DEBUG] Fetch individual article.
+2021-09-06 23:47:14,394 [INFO] Article retrieved, post_id=1
+2021-09-06 23:47:14,396 [INFO] 172.20.11.139 - - [06/Sep/2021 23:47:14] "GET /1 HTTP/1.1" 200 -
+2021-09-06 23:47:14,435 [INFO] 172.20.11.139 - - [06/Sep/2021 23:47:14] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 23:47:16,840 [DEBUG] About us page is retrieved.
+2021-09-06 23:47:16,842 [INFO] 172.20.11.139 - - [06/Sep/2021 23:47:16] "GET /about HTTP/1.1" 200 -
+2021-09-06 23:47:16,877 [INFO] 172.20.11.139 - - [06/Sep/2021 23:47:16] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 23:47:18,348 [DEBUG] Received new post.
+2021-09-06 23:47:18,359 [INFO] 172.20.11.139 - - [06/Sep/2021 23:47:18] "GET /create HTTP/1.1" 200 -
+2021-09-06 23:47:18,396 [INFO] 172.20.11.139 - - [06/Sep/2021 23:47:18] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 23:47:22,161 [DEBUG] Received new post.
+2021-09-06 23:47:22,175 [INFO] Post inserted, title=cccc
+2021-09-06 23:47:22,176 [INFO] 172.20.11.139 - - [06/Sep/2021 23:47:22] "[32mPOST /create HTTP/1.1[0m" 302 -
+2021-09-06 23:47:22,195 [INFO] 172.20.11.139 - - [06/Sep/2021 23:47:22] "GET / HTTP/1.1" 200 -
+2021-09-06 23:47:22,222 [INFO] 172.20.11.139 - - [06/Sep/2021 23:47:22] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 23:47:24,801 [DEBUG] Fetch individual article.
+2021-09-06 23:47:24,802 [INFO] Article retrieved, post_id=5
+2021-09-06 23:47:24,807 [INFO] 172.20.11.139 - - [06/Sep/2021 23:47:24] "GET /5 HTTP/1.1" 200 -
+2021-09-06 23:47:24,844 [INFO] 172.20.11.139 - - [06/Sep/2021 23:47:24] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 23:47:28,695 [DEBUG] Received healthz request, True
+2021-09-06 23:47:28,696 [INFO] OK - healthy
+2021-09-06 23:47:28,699 [INFO] 172.20.11.139 - - [06/Sep/2021 23:47:28] "GET /healthz HTTP/1.1" 200 -
+2021-09-06 23:47:37,012 [ERROR] SQLite error: no such table: posts
+2021-09-06 23:47:37,029 [INFO] 172.20.11.139 - - [06/Sep/2021 23:47:37] "GET / HTTP/1.1" 200 -
+2021-09-06 23:47:37,103 [INFO] 172.20.11.139 - - [06/Sep/2021 23:47:37] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 23:47:53,000 [DEBUG] Received healthz request, False
+2021-09-06 23:47:53,004 [INFO] ERROR - unhealthy
+2021-09-06 23:47:53,007 [INFO] 172.20.11.139 - - [06/Sep/2021 23:47:53] "[35m[1mGET /healthz HTTP/1.1[0m" 500 -
+2021-09-06 23:47:55,689 [ERROR] SQLite error: no such table: posts
+2021-09-06 23:47:55,691 [INFO] 172.20.11.139 - - [06/Sep/2021 23:47:55] "GET / HTTP/1.1" 200 -
+2021-09-06 23:47:55,730 [INFO] 172.20.11.139 - - [06/Sep/2021 23:47:55] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 23:48:09,434 [DEBUG] About us page is retrieved.
+2021-09-06 23:48:09,438 [INFO] 172.20.11.139 - - [06/Sep/2021 23:48:09] "GET /about HTTP/1.1" 200 -
+2021-09-06 23:48:09,473 [INFO] 172.20.11.139 - - [06/Sep/2021 23:48:09] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 23:48:22,250 [INFO] 172.20.11.139 - - [06/Sep/2021 23:48:22] "GET / HTTP/1.1" 200 -
+2021-09-06 23:48:22,303 [INFO] 172.20.11.139 - - [06/Sep/2021 23:48:22] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 23:48:24,025 [DEBUG] Fetch individual article.
+2021-09-06 23:48:24,027 [INFO] Article retrieved, post_id=1
+2021-09-06 23:48:24,030 [INFO] 172.20.11.139 - - [06/Sep/2021 23:48:24] "GET /1 HTTP/1.1" 200 -
+2021-09-06 23:48:24,065 [INFO] 172.20.11.139 - - [06/Sep/2021 23:48:24] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 23:48:25,775 [DEBUG] About us page is retrieved.
+2021-09-06 23:48:25,777 [INFO] 172.20.11.139 - - [06/Sep/2021 23:48:25] "GET /about HTTP/1.1" 200 -
+2021-09-06 23:48:25,808 [INFO] 172.20.11.139 - - [06/Sep/2021 23:48:25] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 23:48:27,380 [DEBUG] Received new post.
+2021-09-06 23:48:27,384 [INFO] 172.20.11.139 - - [06/Sep/2021 23:48:27] "GET /create HTTP/1.1" 200 -
+2021-09-06 23:48:27,417 [INFO] 172.20.11.139 - - [06/Sep/2021 23:48:27] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 23:48:30,956 [DEBUG] Received new post.
+2021-09-06 23:48:30,965 [INFO] Post inserted, title=ccc
+2021-09-06 23:48:30,966 [INFO] 172.20.11.139 - - [06/Sep/2021 23:48:30] "[32mPOST /create HTTP/1.1[0m" 302 -
+2021-09-06 23:48:30,981 [INFO] 172.20.11.139 - - [06/Sep/2021 23:48:30] "GET / HTTP/1.1" 200 -
+2021-09-06 23:48:31,023 [INFO] 172.20.11.139 - - [06/Sep/2021 23:48:31] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 23:48:32,422 [DEBUG] Fetch individual article.
+2021-09-06 23:48:32,424 [INFO] Article retrieved, post_id=4
+2021-09-06 23:48:32,427 [INFO] 172.20.11.139 - - [06/Sep/2021 23:48:32] "GET /4 HTTP/1.1" 200 -
+2021-09-06 23:48:32,476 [INFO] 172.20.11.139 - - [06/Sep/2021 23:48:32] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 23:48:33,761 [INFO] 172.20.11.139 - - [06/Sep/2021 23:48:33] "GET / HTTP/1.1" 200 -
+2021-09-06 23:48:33,794 [INFO] 172.20.11.139 - - [06/Sep/2021 23:48:33] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2021-09-06 23:48:38,286 [DEBUG] Received healthz request, True
+2021-09-06 23:48:38,287 [INFO] OK - healthy
+2021-09-06 23:48:38,288 [INFO] 172.20.11.139 - - [06/Sep/2021 23:48:38] "GET /healthz HTTP/1.1" 200 -
+2021-09-06 23:48:51,124 [INFO]  * Detected change in 'D:\\Udacity\\nd064_course_1-main\\project\\techtrends\\app.py', reloading
+2021-09-06 23:48:51,199 [INFO]  * Restarting with stat
